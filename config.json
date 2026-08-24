@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "package_name": "build.hwgame.v20.pro.craft.minecraft.mi",
+  "store": "xiaomi_getapps",
+  "ads_enabled": false,
+  "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+  "yandex_appopen_id": "",
+  "yandex_interstitial_id": "",
+  "yandex_rewarded_id": "",
+  "yandex_test_appopen_id": "",
+  "yandex_test_interstitial_id": "",
+  "yandex_test_rewarded_id": "",
+  "startapp_app_id": ""
+}
